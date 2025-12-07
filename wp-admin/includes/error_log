@@ -1,0 +1,60 @@
+[25-Jul-2025 10:09:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/lifefitnessindia/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/admin.php on line 16
+[30-Jul-2025 09:26:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/lifefitnessindia/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/admin.php on line 16
+[09-Aug-2025 07:43:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/lifefitnessindia/public_html/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/menu.php on line 9
+[16-Aug-2025 08:31:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/lifefitnessindia/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/admin.php on line 16
+[17-Aug-2025 07:40:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/lifefitnessindia/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/admin.php on line 16
+[18-Aug-2025 09:14:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/lifefitnessindia/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/admin.php on line 16
+[25-Sep-2025 12:11:41 UTC] PHP Fatal error:  Uncaught Error: Class "ftp_base" not found in /home/lifefitnessindia/public_html/wp-admin/includes/class-ftp-pure.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/class-ftp-pure.php on line 28
+[25-Sep-2025 12:11:41 UTC] PHP Fatal error:  Uncaught Error: Class "ftp_base" not found in /home/lifefitnessindia/public_html/wp-admin/includes/class-ftp-sockets.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/class-ftp-sockets.php on line 28
+[25-Sep-2025 12:11:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home/lifefitnessindia/public_html/wp-admin/includes/class-wp-filesystem-direct.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/class-wp-filesystem-direct.php on line 16
+[25-Sep-2025 12:11:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home/lifefitnessindia/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[25-Sep-2025 12:11:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/lifefitnessindia/public_html/wp-admin/includes/class-wp-upgrader.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[25-Sep-2025 12:11:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/lifefitnessindia/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/file.php on line 16
+[25-Sep-2025 12:11:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WP_CONTENT_DIR" in /home/lifefitnessindia/public_html/wp-admin/includes/upgrade.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/upgrade.php on line 12
+[27-Oct-2025 01:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/lifefitnessindia/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/schema.php on line 23
+[27-Oct-2025 01:26:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WP_CONTENT_DIR" in /home/lifefitnessindia/public_html/wp-admin/includes/upgrade.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/lifefitnessindia/public_html/wp-admin/includes/upgrade.php on line 12
